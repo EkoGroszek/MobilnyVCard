@@ -1,0 +1,9 @@
+
+GET /api/search/byName/{name}
+Zwraca dane kontaktowe osoby wpisanej w parametr 'name'
+
+GET /api/search/generate/vcard/{name}/{id}
+Generuje vcard osoby o 'id' podanym w parametrze s listy osób wyszukanych po parametrze 'name'
+
+GET /api/search/fromInput
+Zwraca dane kontaktowe osoby wpisanej po imput w składni 
