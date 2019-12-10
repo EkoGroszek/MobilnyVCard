@@ -69,6 +69,11 @@
             <version>2.2.1.RELEASE</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>com.googlecode.ez-vcard</groupId>
+            <artifactId>ez-vcard</artifactId>
+            <version>0.10.5</version>
+        </dependency>
     </dependencies>
 
     <build>
